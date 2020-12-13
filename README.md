@@ -6,11 +6,11 @@ Here is a full-proof recipe for Eggless Chocolate Lava Cake that tastes awesome 
 
 Morover,it is made with whole wheat flour, giving you yet another reason to try it right away!
 
-* Prepration Time : 5 mins
-* Baking Time : 20 mins
-* Baking Temperature : 180°C (360°F)
-* Total Time : 25 mins
-* Quantity : 5 cakes
+ Prepration Time : 5 mins
+ Baking Time : 20 mins
+ Baking Temperature : 180°C (360°F)
+ Total Time : 25 mins
+ Quantity : 5 cakes
 
 * Energy :- 425 cal
 * Protein :- 5.8 g
